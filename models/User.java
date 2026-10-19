@@ -18,7 +18,7 @@ public void SetName(String n){
     name= n;
 }
 
-public String getaddress(){
+public String getAddress(){
     return address;
 }
 public void setAddress(String a){
